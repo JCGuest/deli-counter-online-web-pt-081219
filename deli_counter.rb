@@ -18,4 +18,6 @@ end
 #take a number(line, string containing name of person joining the end of the line) 
 #adds a person to lin
 
-def take_a_number
+def take_a_number(array, name)
+  puts 
+end  

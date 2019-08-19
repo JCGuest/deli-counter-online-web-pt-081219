@@ -6,11 +6,11 @@ def line(array)
   else 
     
     array.each_with_index do |name, num|
-    new_arry << "#{num + 1}. #{name} "
+    new_arry << "#{num + 1}. #{name}"
     
      
       
     end
-    puts new_arry.join
+    puts new_arry.join(" ")
   end
 end

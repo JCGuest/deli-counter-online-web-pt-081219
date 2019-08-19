@@ -1,6 +1,6 @@
 # Write your code here.
 def line(array)
-  new_arry = []
+  new_arry = ["The line is currently: "]
   if array.length == 0 
   puts "The line is currently empty."
   else 
@@ -11,6 +11,6 @@ def line(array)
      
       
     end
-    puts "The line is currently:" w%[new_arry]
+    puts new_arry
   end
 end

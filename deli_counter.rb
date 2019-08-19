@@ -26,6 +26,7 @@ end
 #now serving
 #calls out next person and shift off the front of line
 
-def now_serving
-  puts 
+def now_serving(array)
+  if array.length == 0 
+    puts ""
 end  

@@ -6,7 +6,7 @@ def line(array)
   else 
     array.each_with_index do |name, num|
       new_arry << "#{num + 1}. #{name}"
-      puts ""
+      puts "The line is currently: #{new_arry}"
     end
   end
 end

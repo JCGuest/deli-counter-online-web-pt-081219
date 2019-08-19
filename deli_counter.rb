@@ -14,3 +14,5 @@ def line(array)
     puts new_arry.join(" ")
   end
 end
+
+

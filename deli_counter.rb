@@ -25,3 +25,7 @@ end
 
 #now serving
 #calls out next person and shift off the front of line
+
+def now_serving
+  puts 
+end  

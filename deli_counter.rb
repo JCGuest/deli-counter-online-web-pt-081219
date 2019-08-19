@@ -22,3 +22,6 @@ def take_a_number(array, name)
   array << name 
   puts "Welcome, #{name}. You are number #{array.length} in line."
 end  
+
+#now serving
+#calls out next person and shift off the front of line

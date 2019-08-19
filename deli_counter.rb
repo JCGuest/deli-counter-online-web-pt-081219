@@ -11,6 +11,6 @@ def line(array)
      
       
     end
-    puts "The line is currently:"
+    puts "The line is currently:" w%[new_arry]
   end
 end

@@ -11,6 +11,6 @@ def line(array)
      
       
     end
-    puts new_arry
+    puts new_arry.join
   end
 end
